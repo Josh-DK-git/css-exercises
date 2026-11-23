@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.pClass
+{
+    background-color:rgb(253, 100, 202);
+    font-family:Verdana, DeJavu Sans, sans-serif;
+}
+.div1
+{
+    font-size:36px;
+    color:blue;
+}
+.set1
+{
+    font-size:24px;
+}
