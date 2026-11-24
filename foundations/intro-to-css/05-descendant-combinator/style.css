@@ -1,1 +1,7 @@
-/* Add CSS Styling */
+.container .text
+{
+    color:red;
+    text-align:center;
+    font-size:20px;
+    background-color:yellow;
+}/* Add CSS Styling */
